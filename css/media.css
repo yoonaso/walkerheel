@@ -1,0 +1,4910 @@
+
+@media screen and (max-width:1200px){
+    
+header > .header-wrap > .right-menu > .menu-box{
+    display: none;
+  
+}
+    
+    header > .header-wrap{
+        max-width:  70vw;
+    }
+
+    
+}
+
+@media screen and (max-width:1180px){
+   .news-letter-select > #sel-box > .table-info{
+      width:67.67vw;
+    margin: 0 auto;
+    height: 87px;
+}
+     
+}
+
+@media screen and (max-width:1131px){
+    
+    main > .book-box > #reservation{
+ width:58vw;
+    height: 10.5vw;
+    overflow: hidden;
+}
+    
+    main > .book-box > #reservation > span{
+        width:9.5vw;
+    }
+    
+    main > .book-box > #reservation > span > p > b{
+    display: inline-block;
+    width:1.5vw;
+    height: 1.4vw;
+    left:115%;
+    top:-0.2vw;
+}
+    
+}
+
+@media screen and (max-width:1024px){
+    
+      header > .header-wrap{
+        max-width:  87.9vw;
+    }
+    
+.slide-box > div{
+    width:100%;
+    padding-bottom: 80%;
+   
+} 
+    
+.slide-box > .text-box > .top-text > h1{
+    font-size: 3.8vw;
+}
+
+
+.slide-box > .text-box > .btm-text > h2{
+    font-size: 2.1vw;
+}
+
+.slide-box:nth-child(2) > .text-box > .btm-text > h2{
+  font-size: 2.1vw;
+}  
+    
+main > .book-box{
+    position: absolute;
+    bottom: -5%;
+    width:70vw;
+    height: 13.5vw;
+ overflow: hidden;
+}    
+    
+
+.slider .slick-dots{
+    position: absolute;
+  bottom:11vw;
+    
+}
+    
+    main > .book-box > #reservation{
+ width:70vw;
+    height: 13.5vw;
+    overflow: hidden;
+        
+}
+    
+main > .book-box > #reservation > select{
+   padding-left: 3.7%;
+    padding-right: 3.7%;
+    padding-top: 7%;
+    padding-bottom: 11%;
+font-size: 1.5vw;
+ 
+}
+    
+main > .book-box > #reservation > span{
+  
+ width:12.5vw;
+   font-size: 1.5vw;
+    cursor: pointer;
+}
+
+    
+main > .book-box > #reservation > span > p{
+    display: inline-block;
+   position: relative;
+    left:-3.5%;
+    top:0.8vw;
+}
+    
+    main > .book-box > #reservation > span > p > b{
+    display: inline-block;
+    width:1.9vw;
+    height: 1.5vw;
+    left:115%;
+    top:0.2vw;
+}    
+
+
+    
+}
+
+
+@media screen and (max-width:1024px){
+        
+section > #brand{
+   display: none;
+} 
+    
+section > #brand_2{
+   display: block;
+     max-width:  87.9vw;
+    width:100%;
+    margin: 0 auto;
+  
+} 
+    
+section > #brand_2 > .b-title-two{
+      margin-bottom: 4.88vw;
+} 
+    
+section > #brand_2 > .b-title-two > .b-title-two-top{
+   
+}      
+    
+section > #brand_2 > .b-title-two > .b-title-two-top > h1{
+     font-size: 3.4vw;/*3.4*/
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800; 
+    color: #333;
+}  
+    
+section > #brand_2 > .b-title-two > .b-two-btm{
+        
+}    
+
+    
+section > #brand_2 > .b-title-two > .b-two-btm > p{
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    font-size: 2.2vw; 
+        color: #333;
+} 
+    
+section > #brand_2 > .brand2-img-wrap{
+     margin-bottom: 4.24vw;   
+}   
+
+section > #brand_2 > .brand2-img-wrap > .brand2-img{
+        width:100%;
+    padding-bottom: 66.2%;
+    background-image: url(../img/section1_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+section > #brand_2 > .brand-2-main{
+    text-align: center;
+  
+}   
+    
+ section > #brand_2 > .brand-2-main > p{
+     font-size: 2vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 2.4vw;
+      
+}    
+    
+    
+section > #brand_2 > .main-line{
+margin: 0 auto;
+    width:52vw;
+    margin-top: 3.6vw;
+}  
+    
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 3.8vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con{
+   
+} 
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 1.95vw;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    color:#333;   
+}     
+    
+section > #brand_2 > .main2-contact > .main2-btm-con{
+        
+}   
+    
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 1.95vw;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    color:#333;       
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:19vw;
+    line-height: 6vw;
+    background-color: #524e4a;
+    text-align: center;
+    margin: 0 auto;
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    display: block;
+    width:100%;
+    height: 100%;
+    color:white;
+    font-size: 1.75vw;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    }  
+    
+section > #brand_2 > .more-view-two:hover{
+     background-color: #333333;    
+}    
+}
+
+@media screen and (max-width:1024px){
+    section > #offer{
+    margin-top: 16vh;
+    width:100%;
+}
+    
+section > #offer > .offer-title{
+    text-align: center;
+    margin-bottom: 4.4vw;
+}
+    
+section > #offer > .offer-title > h1{
+     font-size:3.44vw; 
+     
+}    
+    
+section > #offer > .offer-box > .img-wrap{
+    max-width:  87.9vw;
+    width:100%;
+    margin: 0 auto;
+    padding-top: 14.128vh;/*14.128*/
+    padding-bottom: 14.128vh;
+}
+    
+section > #offer > .offer-box > .img-wrap > .middle-img{
+    display: none;
+}  
+    
+section > #offer > .offer-box > .img-wrap > .left-img{
+    margin-right:2vw;
+}    
+    
+section > #offer > .offer-box > .img-wrap > .left-img > .wedding > .of-img-box > .of-img{
+    width:42.5vw;
+    padding-bottom: 91.46%;
+ 
+}
+    
+
+.wedding > .of-img-box > .of-img > .hashtag-box{
+   display: none;
+}    
+    
+
+    
+.wedding{
+         
+    }    
+    
+    
+.wedding > .hover-box{
+    position: relative;
+    width:42.5vw;
+     padding-bottom: 91.46%;
+    visibility: visible;
+    left:0;
+    opacity: 1;
+
+}
+    
+
+.wedding > .hover-box > .border-box{
+    width:38vw;
+    height: 50vh;
+    
+}  
+    
+.wedding > .hover-box > .hash-tag > p{
+    font-size: 2.2vw;
+}    
+    
+.wedding > .hover-box > .more-box > a{
+    width:13vw;
+    line-height: 7vh;    
+}   
+    
+.wedding > .hover-box > .more-box > a > span{
+    font-size: 1.5vw;
+    
+}   
+    
+section > #offer > .offer-box > .img-wrap > .left-img > .gourmet > .of-img-box > .of-img{
+      width:42.5vw;
+    padding-bottom: 91.46%;
+   
+}  
+    
+.gourmet > .of-img-box > .of-img > .hashtag-box{
+   display: none;
+}
+    
+.gourmet{
+        
+}     
+    
+.gourmet > .hover-box{
+     position: relative;
+   width:42.5vw;
+    padding-bottom: 91.46%;
+    visibility: visible;
+    left:0;
+    opacity: 1;
+   
+}
+    
+.gourmet > .hover-box > .border-box{
+       width:38vw;
+    height: 50vh;
+    
+}
+    
+.gourmet > .hover-box > .hash-tag > p{
+    font-size: 2.2vw;
+}
+
+.gourmet > .hover-box > .more-box > a{
+    
+    width:13vw;
+    line-height: 7vh; 
+}
+
+.gourmet > .hover-box > .more-box > a > span{
+     font-size: 1.5vw;
+}
+    
+section > #offer > .offer-box > .img-wrap > .right-img > .family{
+      position: relative;
+      margin-bottom: 2.0835vw;
+}    
+
+section > #offer > .offer-box > .img-wrap > .right-img > .family > .of-img-box > .of-img{
+  width:42.5vw;
+    padding-bottom: 91.46%;
+}
+ 
+.family > .of-img-box > .of-img > .hashtag-box{
+   display: none;
+}    
+    
+    
+.family{
+        
+}   
+    
+.family > .hover-box{
+   position: relative;
+   width:42.5vw;
+    padding-bottom: 91.46%;
+    visibility: visible;
+    left:0;
+    opacity: 1;
+   
+}
+
+
+.family > .hover-box > .border-box{
+       width:38vw;
+    height: 50vh;
+}
+    
+.family > .hover-box > .hash-tag > p{
+     font-size: 2.2vw;
+}
+    
+.family > .hover-box > .more-box > a{
+    width:13vw;
+    line-height: 7vh; 
+    
+}    
+    
+.family > .hover-box > .more-box > a > span{
+    font-size: 1.5vw;
+}
+    
+section > #offer > .offer-box > .img-wrap > .right-img > .wellness > .of-img-box > .of-img{
+    width:42.5vw;
+    padding-bottom: 91.46%;
+}
+
+.wellness > .of-img-box > .of-img > .hashtag-box{
+   display: none;
+}
+
+.wellness{
+        
+}     
+    
+.wellness > .hover-box{
+     position: relative;
+   width:42.5vw;
+    padding-bottom: 91.46%;
+    visibility: visible;
+    left:0;
+    opacity: 1;
+   
+}
+    
+.wellness > .hover-box > .border-box{
+  width:38vw;
+    height: 50vh;
+}
+    
+.wellness > .hover-box > .hash-tag > p{
+    font-size: 2.2vw;
+}
+    
+.wellness > .hover-box > .more-box > a{
+    
+    width:13vw;
+    line-height: 7vh; 
+}
+
+.wellness > .hover-box > .more-box > a > span{
+     font-size: 1.5vw;
+}
+        
+
+}
+
+@media screen and (max-width:1024px){
+    
+section > #stay{
+    margin-top: 14vh;
+    width:100%;
+    max-width: 100vw;
+
+}
+    
+section > #stay > .stay-slide{
+     max-width: 100vw;
+    margin-top:10vh;
+
+}
+    
+section > #stay > .stay-slide .stay-box{
+    position: relative;
+    width:100%;
+    height: 110vh;
+
+}    
+    
+section > #stay > .stay-title{
+    width:22.5%;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+}    
+    
+section > #stay > .stay-title > .where > h1{
+     font-size: 3.5vw;
+}
+    
+section > #stay > .stay-title > .btm-stay > h2{
+    font-size: 4.2vw;
+}
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+    position: absolute;
+    left:34.3%;
+    top:55.374vh;
+    z-index: 2;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box{
+    position: absolute;
+    left:0;
+    top:0;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img1{
+    width:87.19vw;
+    padding-bottom: 48.95%;
+     background-image: url(../img/seoul_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img2{
+     width:87.19vw;
+    padding-bottom: 48.95%;
+     background-image: url(../img/1024_grand.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img3{
+     width:87.19vw;
+    padding-bottom: 48.95%;
+     background-image: url(../img/1024_douglas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:65.678vw;
+    height: 33.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:50%;
+    transform: translateX(-50%);
+    width:40vw;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 2.9vw;
+    text-align: center;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.6vw;
+    text-align: center;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 1.9vw;
+    line-height: 2.3vw;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: center;
+    font-size: 1.6vw;
+    line-height: 2vw;
+}  
+    
+.stay-slide .slick-prev{
+    
+    position: absolute;
+    left:24%;
+    top:63%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:29%;
+   top:63%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:3.8vw
+}
+
+.stay-slide  .slick-prev img{
+   width:3.8vw
+}
+    
+}
+
+@media screen and (max-width:1024px){
+    .parallax-window2{
+    min-height: 95.5vw;
+    	background: transparent;
+}
+    
+section > #food > .food-bg-box > .fd-ex-wrap{
+    max-width: 87.9vw;
+    width:100%;
+    margin: 0 auto;
+    position: relative;
+}
+    
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title{
+    position: absolute;
+    top:46vh;
+}
+    
+
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 3.3vw;
+}
+    
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 4.2vw;
+}
+    
+
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title > .eat-explain > p{
+    font-size:1.5vw;
+    line-height: 1.95vw;
+}
+    
+
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title  > .eat-more-view{
+    width:13.417vw;
+    line-height: 6.6vh;
+}
+    
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title  > .eat-more-view > a > span{
+ 
+    font-size: 1.342vw;
+    position: relative;
+    left:17%;
+  
+}
+    
+section > #food > .food-bg-box > .fd-ex-wrap > .left-title  > .eat-more-view > a > span > b{
+    top:52%;
+    left:112%;
+    width:1.66vw;
+    height: 1.57vw;
+   
+
+}
+   
+section > #food > .food-bg-box > .fd-ex-wrap > .right-img-box > .food-wrap > .pizza-wrap{
+    position: absolute;
+    top:17vw;
+    left:0;
+    width:25.803vw;
+    height: 37.21vw;
+}
+
+
+.right-img-box > .food-wrap > .pizza-wrap > .pizza-img{
+    width:25.803vw;
+    height: 37.21vw;
+}
+
+.right-img-box > .food-wrap > .pizza-wrap > .pizza-img > .pizza-logo{
+    position: absolute;
+    width:17vw;
+    height: 7.928vw;
+}
+    
+.right-img-box > .food-wrap > .cam-bu-wrap > .camp-wrap{
+    margin-bottom: 4vw;
+     cursor: pointer;
+    transition: 0.5s;
+     width:25.803vw;
+    height: 37.21vw;
+    overflow: hidden;
+}    
+    
+ .food-wrap > .cam-bu-wrap > .camp-wrap > .camp-img{
+     width:25.803vw;
+    height: 37.21vw;
+}
+   
+ 
+.food-wrap > .cam-bu-wrap > .camp-wrap > .camp-img > .camp-logo{
+     position: absolute;
+    width:20.8vw;
+    height: 4.5vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+.right-img-box > .food-wrap > .cam-bu-wrap > .bu-wrap{
+  
+      width:25.803vw;
+    height: 37.21vw;
+
+}
+    
+    
+.food-wrap > .cam-bu-wrap > .bu-wrap > .bu-img{
+  width:25.803vw;
+    height: 37.21vw;
+}
+
+.food-wrap > .cam-bu-wrap > .bu-wrap > .bu-img > .bu-logo{
+    position: absolute;
+     width:19.75vw;
+    height: 5.37vw;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+
+
+}
+
+@media screen and (max-width:1024px){
+    
+
+#wine{
+     margin-top: 14.8vh;
+    position: relative;
+  
+}
+    
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 80vw; 
+}
+    
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 10vh;
+}
+    
+    
+#wine > .wine-slider .wine-box .wine-bg{
+    width:28vw;
+    height: 38.323vw;
+    background-color: #fafafa;
+    position: relative;
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine1{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}    
+    
+#wine > .wine-slider .wine-box .wine-bg .wine2{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine3{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine4{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine5{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine6{
+     width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+    
+    
+ #wine > .wine-slider .wine-box .wine-bg .wine7{
+     width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+   
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine8{
+    width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine8.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine9{
+      width:6.2vw;
+    height: 22.721vw;
+    background-image: url(../img/wine9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}
+    
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text{
+ margin-bottom: 1.7%;   
+}
+    
+    
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text > p{
+    font-size: 1.46vw;
+}    
+ 
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-btm-text > p{
+
+    font-size: 1.3vw;
+}
+    
+.wine-slider .slick-dots{
+    bottom: -18%;
+  
+}    
+    
+
+#wine > .wine-title > h1{
+    font-size: 3.2vw;
+}    
+    
+    
+.wine-store{
+    bottom: -39%;
+
+}
+
+.wine-store > a{
+    display: block;
+    width:19.3vw;
+    line-height: 5.9vw;
+    background-color: #524e4a;
+  
+    
+}
+
+.wine-store > a > span{
+    color:white;
+    font-size: 1.442vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+   position: relative;
+    left:13%;
+}
+
+.wine-store > a > span > b{
+    display: inline-block;
+    width:1.77vw;
+    height: 1.67vw;
+    background-image: url(../img/more-arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+   
+.wine-slider .slick-dots li button:before{
+    font-size: 4vw;
+    color:#333;
+}
+          
+}
+
+@media screen and (max-width:1024px){
+    
+.parallax-window {
+    position: relative;
+	min-height: 130.05vw;
+	background: transparent;
+    padding-top: 5%;
+ 
+}
+    
+    
+#news{
+        margin-top: 46vh;
+}
+    
+.news-letter-box{
+    max-width: 87.9vw;
+   position: absolute;
+    top:7.5vw;
+    left:50%;
+    transform: translateX(-50%);
+}
+    
+ .news-letter-box > .news-le-text > h1{
+      font-size: 3.3vw;  
+ } 
+    
+.news-room-box > .news-title > h1{
+       font-size: 3.3vw;   
+}    
+    
+.news-letter-select > #sel-box > .table-info{
+    width: 87.9vw;
+   
+    margin: 0 auto;
+    height: 87px;
+}
+  
+    
+
+#sel-box > .table-info .global{
+    display: block;
+    width:19.6vw;
+    padding-top: 1.8vw;
+    padding-bottom: 1.8vw;
+
+    /*font*/
+    font-size: 1.7vw;
+}
+
+#sel-box > .table-info .em-info{
+    display: block;
+    width:45.7vw;
+    line-height: 6.05vw;
+    
+     /*font*/
+
+    font-size: 1.7vw;
+}
+   
+#sel-box > .table-info .btn{
+    width:19.6vw;
+     line-height: 5.75vw;
+}
+ 
+#sel-box > .table-info .btn span{
+   
+    font-size: 1.7vw;
+}    
+
+.news-letter-box > .agree{
+        margin-top: -1vw;
+    }    
+    
+.news-letter-box > .agree > label{
+     font-size: 1.4vw;
+}
+  
+.news-room-box{
+    position: absolute;
+    top:32vw;
+    left:50%;
+    transform: translateX(-50%);
+    max-width: 87.9vw;
+}
+    
+
+.news-room-box > .news-img-box > .news-box > .hidden-wrap {
+     width:38.11vw;
+   height:37.2vw;
+    overflow: visible;
+}
+
+.news-room-box > .news-img-box > .news-box > .hidden-wrap > .news-img{
+  width:38.11vw;
+   height:37.2vw;
+    background-image: url(../img/news1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}  
+    
+.news-room-box > .news-img-box > .news-box{
+   margin-right: 4.3vw;
+    cursor: pointer;
+    
+}   
+    
+.news-room-box > .news-img-box > .news-box:first-child{
+    margin-left: 3.45vw;    
+}   
+    
+.news-room-box > .news-img-box > .news-box:nth-child(2){
+    margin-right: 0;   
+}  
+    
+.news-room-box > .news-img-box > .news-box:nth-child(3){
+    clear: both;
+   margin-left: 30%;
+    margin-top: 5%;
+}  
+    
+.news-room-box > .news-img-box > .news-box > .news-headline > a > span{
+        font-size: 1.5vw;
+    }    
+      
+
+    
+
+}
+
+@media screen and (max-width:1024px){
+        
+footer{
+   margin-top: 12%;
+}
+    
+.footer-box > .site-info{
+ 
+    width:55.65vw;
+    margin: 0 auto;
+    margin-top: 7%;
+    padding-bottom: 2.3vw;
+    border-bottom: 1px solid white;
+}   
+    
+.footer-box > .site-info > ul > li > a{
+       color:white;
+   font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    font-size: 1.77vw;
+}
+    
+.footer-box > .contact-info > span{
+    margin-right: 1.2vw;
+    font-size: 1.5vw;
+}   
+    
+.footer-box > .contact-info > span > b{
+    margin-left: 0.3%;
+    font-size: 1.64vw;
+}   
+    
+.footer-box > .company-info{
+    color:white;
+     width:57vw;
+
+}
+    
+.footer-box > .company-info > .cp-info-wrap > li{
+    font-size: 1.38vw;
+}
+    
+
+.footer-box > .company-info-2{
+    color:white;
+     width:80vw;
+    margin: 0 auto;
+    margin-top: 0.2%;
+  
+}
+
+
+.footer-box > .company-info-2 > .cp-info-wrap > li{
+    font-size: 1.38vw;
+   
+}   
+    
+.footer-box > .copyright > p{
+   font-size: 1.3vw;
+}
+    
+.animate-box{
+    width:4.7vw;
+    height: 4.65vw;
+    background-image: url(../img/top-btn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 5%;
+    right:5%;
+   
+}
+  
+}
+
+@media screen and (max-width:768px){
+      header > .header-wrap{
+        max-width:  82.1vw;
+    }
+    
+aside > .nav-box{
+    height: 70%;
+}  
+
+aside > .nav-box > .hotel-wrap{
+    width:75%;
+    height: 75%;
+   
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:22.5%;
+}   
+    
+aside > .nav-box > .hotel-wrap > .left-hotels{
+    width:35%;
+    height: 100%;
+    position: relative;
+   
+   
+}    
+    
+aside > .nav-box > .hotel-wrap > .left-hotels > .ho-img{
+    width:33.5vw;
+    height: 30.3vw;
+    background-image: url(../img/seoul-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    z-index: 4;
+    
+}  
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box{
+    position: absolute;
+    top:3%;
+    left:37%;
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box > ul > li > a{
+    font-size: 1.82vw;
+   
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name{
+    width:65%;
+    height: 100%;
+  
+    position: relative;
+}
+   
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img{
+    position: absolute;
+    top:47%;
+    left:38%;
+}
+    
+header > .header-wrap > .wal-logo-wrap > .left-logo{
+    position: absolute;
+    display: block;
+    width:19vw;
+    height: 4.1vw;
+    background-image: url(../img/hotel-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+       
+}
+
+@media screen and (max-width:768px){
+    .slide-box > div{
+    width:100%;
+    padding-bottom: 92%;
+   
+} 
+    
+
+   
+    
+.slide-box > .text-box > .top-text > h1{
+    font-size: 4.3vw;
+}
+
+
+.slide-box > .text-box > .btm-text > h2{
+    font-size: 2.6vw;
+}
+
+.slide-box:nth-child(2) > .text-box > .btm-text > h2{
+  font-size: 2.6vw;
+}  
+    
+main > .book-box{
+    position: absolute;
+    bottom: -10%;
+ width:100vw;
+    height: 17.5vw;
+ overflow: hidden;
+}    
+    
+
+.slider .slick-dots{
+    position: absolute;
+  bottom:11vw;
+    
+}
+    
+    main > .book-box > #reservation{
+ width:100vw;
+    height: 17.5vw;
+    overflow: hidden;
+        
+}
+    
+main > .book-box > #reservation > select{
+   padding-left: 4.42%;
+    padding-right: 4.42%;
+font-size: 1.9vw;
+ 
+}
+    
+main > .book-box > #reservation > span{
+  
+ width:18.5vw;
+   font-size: 1.9vw;
+    cursor: pointer;
+}
+
+    
+main > .book-box > #reservation > span > p{
+    display: inline-block;
+   position: relative;
+    left:-3.5%;
+    top:0.8vw;
+}
+    
+    main > .book-box > #reservation > span > p > b{
+    display: inline-block;
+    width:2.4vw;
+    height: 1.9vw;
+    left:115%;
+    top:0.4vw;
+}    
+
+}
+
+@media screen and (max-width:768px){
+    section > #brand{
+   display: none;
+} 
+    
+section > #brand_2{
+   display: block;
+  max-width:  82.1vw;
+    width:100%;
+    margin: 0 auto;
+  
+} 
+    
+section > #brand_2 > .b-title-two{
+      margin-bottom: 4.95vw;
+} 
+     
+section > #brand_2 > .b-title-two > .b-title-two-top > h1{
+     font-size: 3.5vw;/*3.4*/
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800; 
+    color: #333;
+}  
+    
+ 
+section > #brand_2 > .b-title-two > .b-two-btm > p{
+    font-size: 2.3vw; 
+     
+} 
+    
+section > #brand_2 > .brand2-img-wrap{
+     margin-bottom: 4.3vw;   
+}   
+
+section > #brand_2 > .brand2-img-wrap > .brand2-img{
+        width:100%;
+    padding-bottom: 58%;
+    background-image: url(../img/section1_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+section > #brand_2 > .brand-2-main{
+    text-align: center;
+  
+}   
+    
+ section > #brand_2 > .brand-2-main > p{
+     font-size: 2vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 2.4vw;
+      
+}    
+    
+    
+section > #brand_2 > .main-line{
+margin: 0 auto;
+    width:52vw;
+    margin-top: 3.6vw;
+}  
+    
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 4.5vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 2vw;
+}     
+    
+
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 2vw;
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:20vw;
+    line-height: 6.5vw;
+    
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    font-size: 1.85vw;
+  
+    }  
+    
+  
+}
+
+@media screen and (max-width:768px){
+    
+section > #offer{
+    margin-top: 13vh;
+    width:100%;
+}
+        
+section > #offer > .offer-box > .img-wrap{
+  display: none;
+}
+    
+section > #offer > .offer-box > .img-wrap-2{
+   display: block;
+    width:82.1vw;
+    margin: 0 auto;
+     padding-top: 6vh;/*14.128*/
+    padding-bottom: 6vh;
+}
+    
+section > #offer > .offer-box > .img-wrap-2 > .all-img{
+        margin-bottom: 5vw;
+    position: relative;
+    height: 30vw;
+}
+    
+section > #offer > .offer-box > .img-wrap-2 > .all-img > .all-img-2{
+    width:82.1vw;
+    height: 100%;
+    background-image: url(../img/rest_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+section > #offer > .offer-box > .img-wrap-2 > .wedding-2{
+        margin-bottom: 5vw;
+     position: relative;
+     height: 30vw;
+}
+    
+section > #offer > .offer-box > .img-wrap-2 > .wedding-2 > .wedding-2-img{
+    width:82.1vw;
+    height: 100%;
+    background-image: url(../img/wedding_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+section > #offer > .offer-box > .img-wrap-2 > .gourmet-2{
+        margin-bottom: 7vw;
+     position: relative;
+     height: 30vw;
+}
+    
+section > #offer > .offer-box > .img-wrap-2 > .gourmet-2 > .gourmet-2-img{
+    width:82.1vw;
+     height: 100%;
+    background-image: url(../img/gourmet_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+    
+section > #offer > .offer-box > .img-wrap-2 > div .hover-box{
+       width:82.1vw;
+     height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top:0;
+    left:0;
+    }  
+    
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .h-border-box{
+     width:79vw;
+     height: 27.5vw;
+     border:2px solid white;
+     position: absolute;
+     top:50%;
+     z-index: 2;
+     left:50%;
+     transform: translate(-50%,-50%);
+    }
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box{
+        position: absolute;
+     top:50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+    }   
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box{
+        margin-bottom: 2vw;
+     margin-left: 3.5vw;
+}    
+    
+section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box > p{
+        color:white;
+     font-family: 'Open Sans', sans-serif;
+    font-size: 2.6vw;
+    font-weight: 600;
+}  
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box{
+        width:14vw;
+     line-height: 5.7vw;
+     background-color: #524e4a;
+     margin: 0 auto;
+     text-align: center;
+    }  
+    
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box > a{
+        display: block;
+     width:100%;
+     height: 100%;
+     color:white;
+      font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+     font-size: 1.8vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer{
+        width:19vw;
+    line-height: 7vw;
+    background-color: #524e4a; 
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 2vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer > a{
+        display: block;
+    width:100%;
+    height: 100%;
+    color:white;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+     font-size: 2vw;
+    }    
+ 
+}
+
+@media screen and (max-width:768px){
+    
+    section > #stay{
+    margin-top: 11vh;
+    width:100%;
+    max-width: 100vw;
+
+}
+    
+section > #stay > .stay-slide{
+     max-width: 100vw;
+    margin-top:8vh;
+
+}
+    
+section > #stay > .stay-slide .stay-box{
+    position: relative;
+    width:100%;
+    height: 110vh;
+
+}    
+    
+  
+section > #stay > .stay-title > .where > h1{
+     font-size: 3.5vw;
+}
+    
+section > #stay > .stay-title > .btm-stay > h2{
+    font-size: 4.2vw;
+}
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+    position: absolute;
+    left:0;
+    top:49vh;
+    z-index: 2;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box{
+    position: absolute;
+    left:0;
+    top:0;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img1{
+    width:100vw;
+    padding-bottom: 40%;
+     background-image: url(../img/seoul_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img2{
+    width:100vw;
+    padding-bottom: 40%;
+     background-image: url(../img/1024_grand.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section > #stay > .stay-slide .stay-box .stay-img-box .stay-img3{
+     width:100vw;
+    padding-bottom: 40%;
+     background-image: url(../img/1024_douglas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:100vw;
+    height: 35.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:70%;
+    width:50vw;
+    height: 24.5vw;
+    border-left:1px solid #333;
+    padding-left: 5%;
+   
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 3.2vw;
+    text-align: left;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.7vw;
+    text-align: left;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 2.3vw;
+    line-height: 2.7vw;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: left;
+    font-size: 1.95vw;
+    line-height: 2.4vw;
+}  
+    
+.stay-slide .slick-prev{
+    
+    position: absolute;
+    left:0%;
+    top:38%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:6%;
+   top:38%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:4.8vw;
+}
+
+.stay-slide  .slick-prev img{
+   width:4.8vw;
+} 
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg > .stay-logo{
+    display: block;
+    position: relative;
+    top:50%;
+    left:10%;
+    transform: translateY(-50%);
+}
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg > .stay-logo > .st-hotel{
+        width:20vw;
+    height: 4.8vw;
+    background-image: url(../img/hotel-logo_black.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    } 
+    
+[data-trigger-13]{
+    opacity: 0;
+    position: relative;
+   margin-left:50px;
+    transition: 0.5s ease-out 0.3s;
+    
+}
+
+[data-trigger-13].visible{
+    opacity: 1;
+
+    margin-left:0;
+    
+}
+    
+[data-trigger-14]{
+    opacity: 0;
+    position: relative;
+    margin-left: -50px;
+    transition: 0.5s ease-out 0.3s;
+    
+}
+
+[data-trigger-14].visible{
+    opacity: 1;
+    left:0;
+     margin-left: 0;
+    
+}    
+    
+[data-trigger-2]{
+    opacity: 1;
+    position: relative;
+    top:0;
+  
+    
+}    
+    
+[data-trigger-2].visible{
+    opacity: 1;
+    position: relative;
+    top:0;
+  
+    
+}       
+ 
+}
+
+@media screen and (max-width:768px){
+#food{
+    display: none;
+}
+    
+section > #food_2{
+   display: block;
+    margin-top: -6vh;
+   
+}
+    
+.parallax-window3{
+    min-height: 178vw;
+    background: transparent;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap{
+    max-width:  82.1vw;
+    width:100%;
+    margin: 0 auto;
+    position: relative;
+}
+    
+ 
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title{
+    position: absolute;
+    left:50%;
+    top:10vh;
+    transform: translateX(-50%);
+    width:22%;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title{
+     font-family: 'Open Sans', sans-serif;
+    margin-bottom: 4.677vh;
+    color:#333;
+    text-align: left;
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh{
+        margin-bottom: -1vw;
+}    
+  
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 3.6vw;
+    font-weight: 400;
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat{
+  
+    text-transform: uppercase;
+    text-align: right;
+}
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 4vw;
+     font-weight: 700;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2{
+     max-width:  82.1vw;
+    width:100%;
+   position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:27vh;
+}  
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .pizza-wrap{
+    width:100%;  
+    position: relative;
+     height: 38vw;
+    margin-bottom: 5vw;
+}  
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .pizza-wrap > .pizza-img{
+       width:100%;
+     padding-bottom: 47%;
+    background-image: url(../img/pizza_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .pizza-wrap > .pizza-img > .pizza-logo{
+    width:32vw;
+    padding-bottom: 16%;
+    background-image: url(../img/pizza-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}    
+   
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .camp-wrap{
+    width:100%;  
+    position: relative;
+     height: 38vw;
+     margin-bottom: 5vw;
+}  
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .camp-wrap > .camp-img{
+       width:100%;
+     padding-bottom: 47%;
+    background-image: url(../img/camping_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .camp-wrap > .camp-img > .camp-logo{
+    width:44vw;
+    padding-bottom: 11.5%;
+    background-image: url(../img/camp_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}    
+
+   
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .bu-wrap{
+    width:100%;  
+    position: relative;
+     height: 38vw;
+}  
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .bu-wrap > .bu-img{
+       width:100%;
+     padding-bottom: 47%;
+    background-image: url(../img/buffet_mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .bu-wrap > .bu-img > .bu-logo{
+    width:42vw;
+    padding-bottom: 13%;
+    background-image: url(../img/buffet_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res{
+      position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    width:25vw;
+    line-height: 7vw;
+    margin-top:11.5vh;
+    
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span{
+    display: block;
+    width:100%;
+    height: 100%;
+    background-color: #524e4a;
+    position: relative;
+    text-align: center;
+}    
+    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a{
+        display: inline-block;
+    color: white;
+    margin-left: -3.4vw;
+   
+    
+}    
+    
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a > b{
+        display: inline-block;
+        width:2.8vw;
+        height: 2.7vw;
+        background-image: url(../img/more-arrow.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+       top:30%;
+        left:72%;
+     
+        
+    }    
+    
+}
+
+@media screen and (max-width:768px){
+    
+#wine{
+     margin-top: 12.8vh;
+    position: relative;
+  
+}
+    
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 72vw; 
+}
+
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 10vh;
+}
+    
+    
+#wine > .wine-slider .wine-box .wine-bg{
+    width:55vw;
+    height: 59.323vw;
+    background-color: #fafafa;
+    position: relative;
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine1{
+    width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}    
+    
+#wine > .wine-slider .wine-box .wine-bg .wine2{
+     width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine3{
+    width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine4{
+     width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine5{
+    width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine6{
+     width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+    
+    
+ #wine > .wine-slider .wine-box .wine-bg .wine7{
+    width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+   
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine8{
+    width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine8.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+#wine > .wine-slider .wine-box .wine-bg .wine9{
+     width:10.5vw;
+    height: 38vw;
+    background-image: url(../img/wine9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}
+    
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text{
+ margin-bottom: 1.7%;   
+  
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine-txt{
+  bottom: 10%;      
+}    
+    
+   
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text > p{
+    font-size: 2.1vw;
+}    
+ 
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-btm-text > p{
+
+    font-size: 1.8vw;
+}
+    
+.wine-slider .slick-dots{
+    bottom: -13%;
+  
+}    
+    
+
+#wine > .wine-title > h1{
+    font-size: 3.4vw;
+}    
+    
+    
+.wine-store{
+    bottom: -30%;
+
+}
+
+.wine-store > a{
+    display: block;
+    width:23vw;
+    line-height: 6.3vw;
+    background-color: #524e4a;
+  
+    
+}
+
+.wine-store > a > span{
+    color:white;
+    font-size: 1.8vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+   position: relative;
+    left:11%;
+}
+
+.wine-store > a > span > b{
+    display: inline-block;
+    width:2.4vw;
+    height: 2.3vw;
+    background-image: url(../img/more-arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+   
+.wine-slider .slick-dots li button:before{
+    font-size: 5.5vw;
+    color:#333;
+}
+    
+   
+    
+   
+}
+
+@media screen and (max-width:768px){
+   #news{
+       display: none;
+}
+    
+#news_2{
+     display: block;
+    margin-top: 40vh;
+}
+    
+.parallax-window4{
+    position: relative;
+	min-height: 200.05vw;
+	background: transparent;
+}  
+    
+.news-letter-box{
+    max-width: 82.1vw;
+   position: absolute;
+    top:7.5vw;
+    left:50%;
+    transform: translateX(-50%);
+}
+    
+ .news-letter-box > .news-le-text > h1{
+      font-size: 3.3vw;  
+ } 
+    
+.news-room-box > .news-title > h1{
+       font-size: 3.3vw;   
+}    
+    
+.news-letter-select > #sel-box > .table-info{
+    width:  82.1vw;
+   
+    margin: 0 auto;
+    height: 100px;
+}
+  
+    
+
+#sel-box > .table-info .global{
+    display: block;
+    width:19vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+
+    /*font*/
+    font-size: 2vw;
+}
+
+#sel-box > .table-info .em-info{
+    display: block;
+    width:40.7vw;
+    line-height: 9.1vw;
+    
+     /*font*/
+
+    font-size: 2vw;
+}
+   
+#sel-box > .table-info .btn{
+    width:19.6vw;
+     line-height: 8.8vw;
+}
+ 
+#sel-box > .table-info .btn span{
+   
+    font-size: 2vw;
+}    
+
+.news-letter-box > .agree{
+        margin-top: -1.5vw;
+    }    
+    
+.news-letter-box > .agree > label{
+     font-size: 1.8vw;
+}
+  
+.news-room-box-2{
+    position: absolute;
+    top:36vw;
+    left:50%;
+    transform: translateX(-50%);
+    max-width: 82.1vw;
+}
+    
+.news-room-box-2 > .news-title{
+     text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2.81vw;
+}
+  
+
+.news-room-box-2 > .news-title > h1{
+    color:#333;
+     font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3.3vw; /*3.125*/
+}    
+    
+
+.news-room-box-2 > .news-img-box{
+ width:100%;
+  margin-top: 5vw;
+}    
+    
+
+
+.news-room-box-2 > .news-img-box > .news-box > .hidden-wrap > .news-img{
+  width:60vw;
+   height:38vw;
+    background-image: url(../img/news1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}  
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(2) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news2.jpg);
+  
+   
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(3) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news3.jpg);
+  
+   
+}     
+    
+.news-room-box-2 > .news-img-box > .news-box{
+margin-bottom: 7vw;
+  
+}   
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline{
+        margin-top: 1.5vw;
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline > a > span{
+        font-size: 2vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    color: #333;
+    
+    }    
+          
+    
+    
+    
+}
+
+@media screen and (max-width:768px){
+       
+footer{
+   margin-top: 10%;
+}
+    
+.footer-box > .site-info{
+ 
+    width:55.65vw;
+    margin: 0 auto;
+    margin-top: 7%;
+    padding-bottom: 2.3vw;
+    border-bottom: 1px solid white;
+}   
+    
+.footer-box > .site-info > ul > li > a{
+       color:white;
+   font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    font-size: 1.77vw;
+}
+    
+    .footer-box > .contact-info{
+        width:62vw;
+        margin: 0 auto;
+        margin-top: 3vw;
+    }    
+    
+.footer-box > .contact-info > span{
+    margin-right: 1.1vw;
+    font-size: 1.6vw;
+}   
+    
+.footer-box > .contact-info > span > b{
+    margin-left: 0.3%;
+    font-size: 1.64vw;
+}   
+    
+.footer-box > .company-info{
+    color:white;
+     width:62vw;
+
+}
+    
+.footer-box > .company-info > .cp-info-wrap > li{
+    font-size: 1.5vw;
+}
+    
+
+.footer-box > .company-info-2{
+  display: none;
+  
+}
+
+
+.footer-box > .company-info-2 > .cp-info-wrap > li{
+    font-size: 1.5vw;
+   
+}   
+    
+.footer-box > .copyright > p{
+   font-size: 1.5vw;
+}
+    
+.animate-box.active{
+        display: none;
+    }  
+    
+}
+
+@media screen and (max-width:540px){
+   
+aside > .nav-box{
+    height: 50%;
+}  
+
+aside > .nav-box > .hotel-wrap{
+    width:85%;
+    height: 85%;
+   
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:22.5%;
+}   
+    
+aside > .nav-box > .hotel-wrap > .left-hotels{
+    width:35%;
+    height: 100%;
+    position: relative;
+   
+   
+}    
+    
+aside > .nav-box > .hotel-wrap > .left-hotels > .ho-img{
+    width:33.5vw;
+    height: 30.3vw;
+    background-image: url(../img/seoul-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    z-index: 4;
+    
+}  
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box{
+    position: absolute;
+    top:0%;
+    left:37%;
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box > ul > li > a{
+    font-size: 2vw;
+   
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name{
+    width:65%;
+    height: 100%;
+  
+    position: relative;
+}
+   
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img{
+    position: absolute;
+    top:43%;
+    left:37%;
+}
+    
+ 
+    aside > .nav-box > .close-box{
+        width:30px;
+        height: 30px;
+    }    
+    
+    aside > .nav-box > .close-box > p{
+        width:20px;
+        height: 2.5px;
+        
+    }  
+    
+    aside > .nav-box > .close-box > p:first-child{
+        transform: translateX(5px) translateY(17px) rotate(45deg);
+    }    
+    
+    
+    aside > .nav-box > .close-box > p:last-child{
+        transform: translateX(5px) translateY(14px) rotate(-45deg);
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger{
+        width:20px;
+        height: 20px;
+        
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger > p{
+        width:100%;
+        height: 3px;
+        margin-bottom: 4px;
+    }    
+}
+
+@media screen and (max-width:540px){
+     .slide-box > div{
+    width:100%;
+    padding-bottom: 130%;
+   
+} 
+    
+
+   
+    
+.slide-box > .text-box > .top-text > h1{
+    font-size: 4.8vw;
+}
+
+
+.slide-box > .text-box > .btm-text > h2{
+    font-size: 2.9vw;
+}
+
+.slide-box:nth-child(2) > .text-box > .btm-text > h2{
+  font-size: 2.9vw;
+}  
+    
+main > .book-box{
+    position: absolute;
+    bottom: -12%;
+ width:100vw;
+    height: 21.3vw;
+ overflow: hidden;
+}    
+    
+
+.slider .slick-dots{
+    position: absolute;
+  bottom:11vw;
+    
+}
+    
+    main > .book-box > #reservation{
+ width:100vw;
+     height: 21.5vw;
+    overflow: hidden;
+        
+}
+    
+main > .book-box > #reservation > select{
+   padding-left: 3.5%;
+    padding-right: 3.5%;
+font-size: 2.2vw;
+ 
+}
+    
+main > .book-box > #reservation > span{
+  
+ width:18.5vw;
+   font-size: 2.2vw;
+
+}
+
+    
+main > .book-box > #reservation > span > p{
+    display: inline-block;
+   position: relative;
+    left:-3.5%;
+    top:0.8vw;
+}
+    
+    main > .book-box > #reservation > span > p > b{
+    display: inline-block;
+    width:2.6vw;
+    height: 2.1vw;
+}    
+}
+
+@media screen and (max-width:540px){
+     section > #brand{
+   display: none;
+} 
+    
+section > #brand_2{
+
+    margin-top: 15vw;
+  
+} 
+    
+section > #brand_2 > .b-title-two{
+      margin-bottom: 4.95vw;
+} 
+     
+section > #brand_2 > .b-title-two > .b-title-two-top > h1{
+     font-size: 3.9vw;/*3.4*/
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800; 
+    color: #333;
+}  
+    
+section > #brand_2 > .b-title-two > .b-title-two-top{
+    margin-top: 5vw;    
+}    
+    
+ 
+section > #brand_2 > .b-title-two > .b-two-btm > p{
+    font-size: 2.6vw; 
+     
+} 
+    
+section > #brand_2 > .brand2-img-wrap{
+     margin-bottom: 4.3vw;   
+}   
+
+section > #brand_2 > .brand2-img-wrap > .brand2-img{
+        width:100%;
+    padding-bottom: 55%;
+    background-image: url(../img/section1_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+    section > #brand_2 > .brand-2-main{
+        width:100%;
+    }    
+    
+  
+ section > #brand_2 > .brand-2-main > p{
+     font-size: 2.21vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 2.75vw;
+      
+}    
+    
+    
+section > #brand_2 > .main-line{
+margin: 0 auto;
+    width:52vw;
+    margin-top: 3.6vw;
+}  
+    
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 8.5vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 2.3vw;
+}     
+    
+
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 2.3vw;
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:30vw;
+    line-height: 8.5vw;
+    margin-top: 5vw;
+    
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    font-size: 2.4vw;
+  
+    }  
+}
+
+@media screen and (max-width:540px){
+    section > #offer{
+    margin-top: 9vh;
+    width:100%;
+}
+    
+section > #offer > .offer-title > h1{
+        font-size: 3.8vw;
+    }    
+        
+ 
+
+  
+ section > #offer > .offer-box > .img-wrap-2 > div .h-border-box{
+     width:77.5vw;
+     height: 25.5vw;
+     
+    }
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box{
+        position: absolute;
+     top:50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+    }   
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box{
+        margin-bottom: 2.3vw;
+     margin-left: 6vw;
+}    
+    
+section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box > p{
+        color:white;
+     font-family: 'Open Sans', sans-serif;
+    font-size: 2.6vw;
+    font-weight: 600;
+}  
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box{
+        width:20vw;
+     line-height: 6.3vw;
+     background-color: #524e4a;
+     margin: 0 auto;
+     text-align: center;
+    }  
+    
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box > a{
+      
+     font-size: 2.3vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer{
+        width:23vw;
+    line-height: 7.9vw;
+    background-color: #524e4a; 
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3.4vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer > a{
+
+     font-size: 2.5vw;
+    }    
+}
+
+@media screen and (max-width:540px){
+     section > #stay{
+    margin-top: 9vh;
+    width:100%;
+    max-width: 100vw;
+
+}
+    
+section > #stay > .stay-slide{
+     max-width: 100vw;
+    margin-top:6vh;
+
+}
+    
+section > #stay > .stay-slide .stay-box{
+    
+    height: 90vh;
+
+}    
+    
+    section > #stay > .stay-title{
+        width:21%
+    }    
+    
+  
+section > #stay > .stay-title > .where > h1{
+     font-size: 3.8vw;
+}
+    
+section > #stay > .stay-title > .btm-stay > h2{
+    font-size: 4.5vw;
+}
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+   
+    top:34.5vh;
+
+}
+    
+
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:100vw;
+    height: 40.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:70%;
+    width:50vw;
+    height: 29vw;
+    border-left:1px solid #333;
+    padding-left: 5%;
+   
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 3.4vw;
+    text-align: left;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.7vw;
+    text-align: left;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 2.6vw;
+    line-height: 3vw;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: left;
+    font-size: 2.2vw;
+    line-height: 2.7vw;
+}  
+    
+.stay-slide .slick-prev{
+    top:33%;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:8%;
+   top:33%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:6.3vw;
+}
+
+.stay-slide  .slick-prev img{
+   width:6.3vw;
+} 
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg > .stay-logo{
+    display: block;
+    position: relative;
+    top:50%;
+    left:10.5%;
+    transform: translateY(-50%);
+}
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg > .stay-logo > .st-hotel{
+        width:24vw;
+    height: 5.5vw;
+    background-image: url(../img/hotel-logo_black.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    } 
+    
+    section > #stay > .stay-slide .stay-box .stay-img-box .stay-img1{
+        padding-bottom: 53%;
+    }    
+}
+
+@media screen and (max-width:540px){
+    section > #food_2{
+   display: block;
+    margin-top: -20vh;
+   
+}
+    
+.parallax-window3{
+    min-height: 178vw;
+    background: transparent;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap{
+    max-width: 82.1vw;
+    width:100%;
+    margin: 0 auto;
+    position: relative;
+}
+    
+ 
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title{
+    position: absolute;
+    left:50%;
+    top:4.3vh;
+    transform: translateX(-50%);
+    width:22%;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title{
+     font-family: 'Open Sans', sans-serif;
+    margin-bottom: 4.677vh;
+    color:#333;
+    text-align: left;
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh{
+        margin-bottom: -1vw;
+}    
+  
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 3.9vw;
+    font-weight: 400;
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat{
+  
+    text-transform: uppercase;
+    text-align: right;
+}
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 4.6vw;
+     font-weight: 700;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2{
+    
+    top:16vh;
+}  
+    
+ 
+ 
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res{
+      position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    width:30vw;
+    line-height: 10vw;
+    margin-top:5.5vh;
+    
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span{
+    display: block;
+    width:100%;
+    height: 100%;
+    background-color: #524e4a;
+    position: relative;
+    text-align: center;
+}    
+    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a{
+        display: inline-block;
+    color: white;
+    margin-left: -3.4vw;
+   font-size: 2.7vw;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    
+}    
+    
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a > b{
+        display: inline-block;
+        width:3.5vw;
+        height: 3.3vw;
+        background-image: url(../img/more-arrow.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+       top:33%;
+        left:72%;
+     
+        
+    }    
+    
+}
+
+@media screen and (max-width:540px){
+        
+#wine{
+     margin-top: 9vh;
+    position: relative;
+  
+}
+    
+#wine > .wine-title > h1{
+    font-size: 3.8vw;
+}    
+  
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 75vw; 
+}
+
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 6vh;
+}
+    
+    
+#wine > .wine-slider .wine-box .wine-bg{
+    width:55vw;
+    height: 65.323vw;
+    background-color: #fafafa;
+    position: relative;
+}
+    
+
+    
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text{
+ margin-bottom: 1.7%;   
+  
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine-txt{
+  bottom: 10%;      
+}    
+    
+   
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text > p{
+    font-size: 2.4vw;
+}    
+ 
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-btm-text > p{
+
+    font-size: 2.1vw;
+}
+    
+.wine-slider .slick-dots{
+    bottom: -17%;
+  
+}    
+    
+.wine-slider .slick-dots li button:before{
+    font-size: 7.5vw;
+    color:#333;
+}
+   
+  
+    
+.wine-store{
+    bottom: -37%;
+
+}
+
+.wine-store > a{
+    display: block;
+    width:29vw;
+    line-height:8.3vw;
+    background-color: #524e4a;
+  
+    
+}
+
+.wine-store > a > span{
+    color:white;
+    font-size: 2.2vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+   position: relative;
+    left:11%;
+}
+
+.wine-store > a > span > b{
+    display: inline-block;
+    width:2.7vw;
+    height: 2.6vw;
+    background-image: url(../img/more-arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+   
+ 
+}
+
+@media screen and (max-width:540px){
+    #news_2{
+     display: block;
+    margin-top: 30vh;
+}
+    
+.parallax-window4{
+    position: relative;
+	min-height: 215.05vw;
+	background: transparent;
+}  
+    
+.news-letter-box{
+    max-width: 82.1vw;
+   position: absolute;
+    top:7.9vw;
+    left:50%;
+    transform: translateX(-50%);
+}
+    
+ .news-letter-box > .news-le-text > h1{
+      font-size: 3.6vw;  
+ } 
+    
+.news-room-box > .news-title > h1{
+       font-size: 3.6vw;   
+}    
+    
+.news-letter-select > #sel-box > .table-info{
+    width:  82.1vw;
+   
+    margin: 0 auto;
+    height: 100px;
+}
+  
+    
+
+#sel-box > .table-info .global{
+    display: block;
+    width:19vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+
+    /*font*/
+    font-size: 2.2vw;
+}
+
+#sel-box > .table-info .em-info{
+    display: block;
+    width:40.7vw;
+    line-height: 9.4vw;
+    
+     /*font*/
+
+    font-size: 2.35vw;
+}
+   
+#sel-box > .table-info .btn{
+    width:19.6vw;
+     line-height: 8.8vw;
+}
+ 
+#sel-box > .table-info .btn span{
+   
+    font-size: 2.35vw;
+}    
+
+.news-letter-box > .agree{
+        margin-top: -7vw;
+    }    
+    
+.news-letter-box > .agree > label{
+     font-size: 2.2vw;
+}
+  
+.news-room-box-2{
+    position: absolute;
+    top:38vw;
+    left:50%;
+    transform: translateX(-50%);
+    max-width: 82.1vw;
+}
+    
+.news-room-box-2 > .news-title{
+     text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2.81vw;
+}
+  
+
+.news-room-box-2 > .news-title > h1{
+    color:#333;
+     font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3.3vw; /*3.125*/
+}    
+    
+
+.news-room-box-2 > .news-img-box{
+ width:100%;
+  margin-top: 5vw;
+}    
+    
+
+
+.news-room-box-2 > .news-img-box > .news-box > .hidden-wrap > .news-img{
+  width:60vw;
+   height:40vw;
+    background-image: url(../img/news1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}  
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(2) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news2.jpg);
+  
+   
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(3) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news3.jpg);
+  
+   
+}  
+    
+    
+.news-room-box-2 > .news-img-box > .news-box{
+margin-bottom: 7vw;
+  
+}   
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline{
+        margin-top: 1.5vw;
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline > a > span{
+        font-size: 2.5vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    color: #333;
+    
+    }
+    
+  
+}
+
+@media screen and (max-width:540px){
+   footer{
+   margin-top: 12%;
+}  
+    
+.footer-box > .ft-logo-box > .ft-logo-img{
+    width:32vw;
+    height: 7vw;
+}    
+    .footer-box > .site-info{
+ 
+    width:70.65vw;
+   
+    margin-top: 12%;
+    padding-bottom: 2.3vw;
+   
+}   
+    
+.footer-box > .site-info > ul > li > a{
+
+    font-size: 2.2vw;
+}
+    
+    .footer-box > .contact-info{
+        width:63vw;
+        margin: 0 auto;
+        margin-top: 3vw;
+    }    
+    
+.footer-box > .contact-info > span{
+    margin-right: 1.1vw;
+    font-size: 2vw;
+}   
+    
+.footer-box > .contact-info > span > b{
+    margin-left: 0.3%;
+    font-size: 2.2vw;
+}   
+    
+.footer-box > .company-info{
+    color:white;
+     width:80vw;
+
+}
+    
+.footer-box > .company-info > .cp-info-wrap > li{
+    font-size: 2vw;
+}
+    
+
+.footer-box > .company-info-2{
+  display: none;
+  
+}
+
+
+    
+.footer-box > .copyright > p{
+   font-size: 1.97vw;
+}
+    
+.animate-box.active{
+        display: none;
+    }  
+    
+}
+
+@media screen and (max-width:425px){
+    
+    haader{
+        width:100%;
+    }
+     header > .header-wrap{
+        max-width:  78.1vw;
+    }
+    
+aside > .nav-box{
+    width:90%;
+    height: 45%;
+}  
+
+aside > .nav-box > .hotel-wrap{
+    width:100%;
+    height: 80%;
+   
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:22.5%;
+}   
+    
+aside > .nav-box > .hotel-wrap > .left-hotels{
+    width:40%;
+    height: 100%;
+    position: relative;
+   
+   
+}    
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img > .ho-logo-bg{
+        width:24vw;
+    height: 11vw;
+    }    
+aside > .nav-box > .hotel-wrap > .left-hotels > .ho-img{
+    width:37.5vw;
+    height: 42.3vw;
+    background-image: url(../img/seoul-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    z-index: 4;
+    left:14%;
+    
+}  
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box{
+    position: absolute;
+    top:0%;
+    left:28%;
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box > ul > li > a{
+    font-size: 2.2vw;
+   
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name{
+    width:60%;
+    height: 100%;
+  
+    position: relative;
+}
+   
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img{
+    position: absolute;
+    top:43%;
+    left:28%;
+    width:24vw;
+    height:10vw;
+}
+    
+    
+    
+ 
+    aside > .nav-box > .close-box{
+        width:30px;
+        height: 30px;
+    }    
+    
+    aside > .nav-box > .close-box > p{
+        width:20px;
+        height: 2.5px;
+        
+    }  
+    
+    aside > .nav-box > .close-box > p:first-child{
+        transform: translateX(5px) translateY(17px) rotate(45deg);
+    }    
+  
+    
+    aside > .nav-box > .close-box > p:last-child{
+        transform: translateX(5px) translateY(14px) rotate(-45deg);
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger{
+        width:20px;
+        height: 20px;
+        
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger > p{
+        width:100%;
+        height: 3px;
+        margin-bottom: 4px;
+    }    
+    
+    header > .header-wrap > .wal-logo-wrap > .left-logo{
+    position: absolute;
+    display: block;
+    width:27vw;
+    height: 6.1vw;
+    background-image: url(../img/hotel-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+}
+
+@media screen and (max-width:425px){
+      .slide-box > div{
+    width:100%;
+    padding-bottom: 160%;
+   
+} 
+    
+
+   
+    
+.slide-box > .text-box > .top-text > h1{
+    font-size: 5.4vw;
+}
+
+
+.slide-box > .text-box > .btm-text > h2{
+    font-size: 3.5vw;
+}
+
+.slide-box:nth-child(2) > .text-box > .btm-text > h2{
+  font-size: 3.5vw;
+}  
+    
+main > .book-box{
+    position: absolute;
+    bottom: -12%;
+ width:100vw;
+    height: 21.3vw;
+ overflow: hidden;
+    display: none;
+}    
+    
+
+}
+
+@media screen and (max-width:425px){
+     section > #brand{
+   display: none;
+} 
+    
+section > #brand_2{
+
+    margin-top: -3vw;
+  
+} 
+    
+section > #brand_2 > .b-title-two{
+      margin-bottom: 4.95vw;
+} 
+     
+section > #brand_2 > .b-title-two > .b-title-two-top > h1{
+     font-size: 4.2vw;/*3.4*/
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800; 
+    color: #333;
+}  
+    
+section > #brand_2 > .b-title-two > .b-title-two-top{
+    margin-top: 5vw;    
+}    
+    
+ 
+section > #brand_2 > .b-title-two > .b-two-btm > p{
+    font-size: 2.9vw; 
+     
+} 
+    
+section > #brand_2 > .brand2-img-wrap{
+     margin-bottom: 4.3vw;   
+}   
+
+section > #brand_2 > .brand2-img-wrap > .brand2-img{
+        width:100%;
+    padding-bottom: 66%;
+    background-image: url(../img/section1_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+    section > #brand_2 > .brand-2-main{
+      
+        margin: 0 auto;
+    }    
+    
+  
+ section > #brand_2 > .brand-2-main > p{
+     font-size: 2.2vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 3vw;
+      
+}    
+    
+    
+section > #brand_2 > .main-line{
+margin: 0 auto;
+    width:55vw;
+    margin-top: 3.6vw;
+}  
+    
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 8.5vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 2.5vw;
+}     
+    
+
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 2.5vw;
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:32vw;
+    line-height: 9vw;
+    margin-top: 5vw;
+    
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    font-size: 2.7vw;
+  
+    }  
+}
+
+@media screen and (max-width:425px){
+    
+    
+    
+    
+     section > #offer{
+    margin-top: 9vh;
+    width:100%;
+}
+    
+section > #offer > .offer-title > h1{
+        font-size: 4.2vw;
+    }    
+        
+ 
+
+  
+ section > #offer > .offer-box > .img-wrap-2 > div .h-border-box{
+     width:77.5vw;
+     height:27.5vw;
+     position: absolute;
+     left:50%;
+     top:55%;
+     transform: translate(-50%,-50%);
+    }
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box{
+        position: absolute;
+     top:50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+    }   
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box{
+        margin-bottom: 3.3vw;
+     margin-left: 7vw;
+}    
+    
+section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .top-txt-box > p{
+        color:white;
+     font-family: 'Open Sans', sans-serif;
+    font-size: 3vw;
+    font-weight: 600;
+}  
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box{
+        width:24vw;
+     line-height: 7.3vw;
+     background-color: #524e4a;
+     margin: 0 auto;
+     text-align: center;
+    }  
+    
+    
+ section > #offer > .offer-box > .img-wrap-2 > div .txt-box > .a-box > a{
+      
+     font-size: 2.6vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer{
+        width:30vw;
+    line-height: 8.5vw;
+    background-color: #524e4a; 
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 12.4vw;
+    }  
+    
+section > #offer > .offer-box > .img-wrap-2 > .more-offer > a{
+
+     font-size: 2.6vw;
+    }
+    
+    section > #offer > .offer-box > .img-wrap-2 > .all-img{
+        margin-bottom: 10vw;
+    }    
+    
+    section > #offer > .offer-box > .img-wrap-2 > .wedding-2{
+        margin-bottom: 10vw;
+    }    
+    
+    section > #offer > .offer-box > .img-wrap-2 > .all-img > .all-img-2{
+         height:110%;
+    }    
+    
+    section > #offer > .offer-box > .img-wrap-2 > .wedding-2 > .wedding-2-img{
+        height:110%;
+    } 
+    
+    section > #offer > .offer-box > .img-wrap-2 > .gourmet-2 > .gourmet-2-img{
+        height: 110%;
+    }   
+    
+    section > #offer > .offer-box > .img-wrap-2 > div .hover-box{
+        height: 110%;
+    }    
+}
+
+@media screen and (max-width:425px){
+      section > #stay{
+    margin-top: 6vh;
+    width:100%;
+    max-width: 100vw;
+
+}
+    
+section > #stay > .stay-slide{
+     max-width: 100vw;
+    margin-top:4vh;
+
+}
+    
+section > #stay > .stay-slide .stay-box{
+    
+    height: 90vh;
+
+}    
+    
+    section > #stay > .stay-title{
+        width:21%
+    }    
+    
+  
+section > #stay > .stay-title > .where > h1{
+     font-size: 4.2vw;
+}
+    
+section > #stay > .stay-title > .btm-stay > h2{
+    font-size: 4.7vw;
+}
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+   
+    top:28.5vh;
+
+}
+    
+
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:100vw;
+    height: 40.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:70%;
+    width:50vw;
+    height: 29vw;
+    border-left:1px solid #333;
+    padding-left: 5%;
+   
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 3.4vw;
+    text-align: left;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.7vw;
+    text-align: left;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 2.6vw;
+    line-height: 3vw;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: left;
+    font-size: 2.2vw;
+    line-height: 2.7vw;
+}  
+    
+.stay-slide .slick-prev{
+    top:25%;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:10%;
+   top:25%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:8vw;
+}
+
+.stay-slide  .slick-prev img{
+   width:8vw;
+} 
+ 
+}
+
+@media screen and (max-width:425px){
+     section > #food_2{
+   display: block;
+    margin-top: -35vh;
+   
+}
+    
+.parallax-window3{
+    min-height: 188vw;
+    background: transparent;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap{
+    max-width: 82.1vw;
+    width:100%;
+    margin: 0 auto;
+    position: relative;
+}
+    
+ 
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title{
+    position: absolute;
+    left:50%;
+    top:4.3vh;
+    transform: translateX(-50%);
+    width:22%;
+}    
+  
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh{
+        margin-bottom: -1vw;
+}    
+  
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 4.2vw;
+    font-weight: 400;
+}
+    
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 4.7vw;
+     font-weight: 700;
+}    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2{
+    
+    top:13vh;
+}  
+    
+ 
+ 
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res{
+      position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    width:30vw;
+    line-height: 10vw;
+    margin-top:5.5vh;
+    
+}
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span{
+    display: block;
+    width:100%;
+    height: 100%;
+    background-color: #524e4a;
+    position: relative;
+    text-align: center;
+}    
+    
+    
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a{
+        display: inline-block;
+    color: white;
+    margin-left: -3.4vw;
+   font-size: 2.7vw;
+     font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    
+}    
+    
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res > span > a > b{
+        display: inline-block;
+        width:3.5vw;
+        height: 3.3vw;
+        background-image: url(../img/more-arrow.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+       top:33%;
+        left:72%;
+     
+        
+    }    
+    
+}
+
+@media screen and (max-width:425px){
+    #wine{
+     margin-top: 6vh;
+    position: relative;
+  
+}
+    
+#wine > .wine-title > h1{
+    font-size: 4.3vw;
+}    
+  
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 80vw; 
+}
+
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 6vh;
+}
+    
+    
+#wine > .wine-slider .wine-box .wine-bg{
+    width:55vw;
+    height: 74.323vw;
+    background-color: #fafafa;
+    position: relative;
+}
+    
+
+    
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text{
+ margin-bottom: 1.7%;   
+  
+}
+    
+#wine > .wine-slider .wine-box .wine-bg .wine-txt{
+  bottom: 13%;      
+}    
+    
+   
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-top-text > p{
+    font-size: 2.8vw;
+}    
+ 
+.wine-slider .wine-box .wine-bg .wine-txt > .wine-btm-text > p{
+
+    font-size: 2.4vw;
+}
+    
+.wine-slider .slick-dots{
+    bottom: -17%;
+  
+}    
+    
+.wine-slider .slick-dots li button:before{
+    font-size: 10vw;
+    color:#333;
+}
+   
+  
+    
+.wine-store{
+    bottom: -37%;
+
+}
+
+.wine-store > a{
+    display: block;
+    width:36vw;
+    line-height:11vw;
+    background-color: #524e4a;
+  
+    
+}
+
+.wine-store > a > span{
+    color:white;
+    font-size: 2.8vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+   position: relative;
+    left:11%;
+}
+
+.wine-store > a > span > b{
+    display: inline-block;
+    width:3.3vw;
+    height: 3.2vw;
+    background-image: url(../img/more-arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+   
+}
+
+@media screen and (max-width:425px){
+      #news_2{
+     display: block;
+    margin-top: 26vh;
+}
+    
+.parallax-window4{
+    position: relative;
+	min-height: 225.05vw;
+	background: transparent;
+}  
+    
+.news-letter-box{
+    max-width: 82.1vw;
+   position: absolute;
+    top:14vw;
+    
+}
+    
+ .news-letter-box > .news-le-text > h1{
+      font-size: 4vw;  
+ } 
+    
+
+.news-letter-select > #sel-box > .table-info{
+    width:  82.1vw;
+   
+    margin: 0 auto;
+    height: 100px;
+}
+  
+    
+
+#sel-box > .table-info .global{
+    display: block;
+    width:19vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+
+    /*font*/
+    font-size: 2.2vw;
+}
+
+#sel-box > .table-info .em-info{
+    display: block;
+    width:40.7vw;
+    line-height: 9.4vw;
+    
+     /*font*/
+
+    font-size: 2.35vw;
+}
+   
+#sel-box > .table-info .btn{
+    width:19.6vw;
+     line-height: 8.8vw;
+}
+ 
+#sel-box > .table-info .btn span{
+   
+    font-size: 2.35vw;
+}    
+
+.news-letter-box > .agree{
+        margin-top: -12vw;
+    }    
+    
+.news-letter-box > .agree > label{
+     font-size: 2.2vw;
+}
+  
+.news-room-box-2{
+    position: absolute;
+    top:48vw;
+    left:50%;
+    transform: translateX(-50%);
+    max-width: 82.1vw;
+}
+    
+.news-room-box-2 > .news-title{
+     text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2.81vw;
+}
+  
+
+.news-room-box-2 > .news-title > h1{
+    color:#333;
+     font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+   font-size: 4vw; 
+}    
+    
+
+.news-room-box-2 > .news-img-box{
+ width:100%;
+  margin-top: 5vw;
+}    
+    
+
+
+.news-room-box-2 > .news-img-box > .news-box > .hidden-wrap > .news-img{
+  width:60vw;
+   height:40vw;
+    background-image: url(../img/news1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}  
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(2) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news2.jpg);
+  
+   
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(3) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news3.jpg);
+  
+   
+}  
+    
+    
+.news-room-box-2 > .news-img-box > .news-box{
+margin-bottom: 7vw;
+  
+}   
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline{
+        margin-top: 1.5vw;
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline > a > span{
+        font-size: 2.9vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    color: #333;
+    
+    }
+    
+}
+
+@media screen and (max-width:425px){
+     footer{
+   margin-top: 12%;
+}  
+    
+.footer-box > .ft-logo-box > .ft-logo-img{
+    width:32vw;
+    height: 7vw;
+}    
+    .footer-box > .site-info{
+ 
+    width:70.65vw;
+   
+    margin-top: 12%;
+    padding-bottom: 2.3vw;
+   
+}   
+    
+.footer-box > .site-info > ul > li > a{
+
+    font-size: 2.2vw;
+}
+    
+    .footer-box > .contact-info{
+        width:70vw;
+        margin: 0 auto;
+        margin-top: 3vw;
+    }    
+    
+.footer-box > .contact-info > span{
+    margin-right: 1.1vw;
+    font-size: 2vw;
+}   
+    
+.footer-box > .contact-info > span > b{
+    margin-left: 0.3%;
+    font-size: 2.2vw;
+}   
+    
+.footer-box > .company-info{
+    color:white;
+     width:80vw;
+    display: none;
+
+}
+    
+.footer-box > .company-info > .cp-info-wrap > li{
+    font-size: 2vw;
+}
+    
+
+.footer-box > .company-info-2{
+  display: none;
+  
+}
+
+
+    
+.footer-box > .copyright > p{
+   font-size: 1.97vw;
+}
+    
+
+    
+}
+
+@media screen and (max-width:375px){
+ 
+ 
+section > #brand_2 > .b-title-two > .b-title-two-top > h1{
+     font-size: 4.6vw;/*3.4*/
+   
+}  
+    
+section > #brand_2 > .b-title-two > .b-title-two-top{
+    margin-top: 5vw;    
+}    
+    
+ 
+section > #brand_2 > .b-title-two > .b-two-btm > p{
+    font-size: 3.4vw; 
+     
+} 
+    
+section > #brand_2 > .brand2-img-wrap{
+     margin-bottom: 4.3vw;   
+}   
+
+section > #brand_2 > .brand2-img-wrap > .brand2-img{
+        width:100%;
+    padding-bottom: 66%;
+    background-image: url(../img/section1_1024.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    
+    section > #brand_2 > .brand-2-main{
+    visibility: hidden;
+        margin: 0 auto;
+        
+    }  
+    
+section > #brand_2 > .brand-2-main-2{
+    visibility: visible;
+    text-align: center;
+    margin-top: -13vw;
+    margin-bottom: 5vw;
+}    
+    
+  
+ section > #brand_2 > .brand-2-main-2 > p{
+     font-size: 2.8vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 3.3vw;
+      
+}    
+    
+    
+section > #brand_2 > .main-line{
+margin: 0 auto;
+    width:55vw;
+    margin-top: 3.6vw;
+}  
+    
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 8.5vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 2.8vw;
+}     
+    
+
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 2.8vw;
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:37vw;
+    line-height: 11vw;
+    margin-top: 5vw;
+    
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    font-size: 3.2vw;
+  
+    }  
+}
+
+@media screen and (max-width:375px){
+     
+    
+     section > #offer{
+    margin-top: 5vh;
+    width:100%;
+}
+    
+section > #offer > .offer-title > h1{
+        font-size: 4.7vw;
+    }    
+        
+ 
+}
+
+
+@media screen and (max-width:375px){
+   
+    section > #stay > .stay-slide .stay-box .stay-ex-box .stay-ex-bg > .stay-logo > .st-hotel
+    {
+        display: none;
+    }    
+    
+    section > #stay > .stay-title{
+        width:21%
+    }    
+    
+  
+section > #stay > .stay-title > .where > h1{
+     font-size: 4.6vw;
+}
+    
+section > #stay > .stay-title > .btm-stay > h2{
+    font-size: 5.1vw;
+}
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+   
+    top:24.5vh;
+
+}
+    
+
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:100vw;
+    height: 40.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:30%;
+    width:50vw;
+    height: 29vw;
+    border-left:0px solid #333;
+    padding-left: 5%;
+   
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 3.4vw;
+    text-align: left;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.7vw;
+    text-align: left;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 2.6vw;
+    line-height: 3vw;
+}
+    
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main{
+       width:70vw; 
+    }    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: left;
+    font-size: 2.1vw;
+    line-height: 2.7vw;
+}  
+    
+.stay-slide .slick-prev{
+    top:22%;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:10%;
+   top:22%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:8vw;
+}
+
+.stay-slide  .slick-prev img{
+   width:8vw;
+} 
+}
+
+@media screen and (max-width:375px){
+      section > #food_2{
+   display: block;
+    margin-top: -40vh;
+   
+}
+    
+.parallax-window3{
+    min-height: 188vw;
+    background: transparent;
+}    
+    
+    
+
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title{
+        width:20vw;
+    }    
+
+
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 4.6vw;
+    font-weight: 400;
+}
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat{
+        padding-left: 2vw;
+    }
+    
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 5.7vw;
+     font-weight: 700;
+}    
+    
+
+}
+
+@media screen and (max-width:375px){
+     #wine{
+     margin-top: 6vh;
+    position: relative;
+  
+}
+    
+#wine > .wine-title > h1{
+    font-size: 4.7vw;
+}    
+  
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 88vw; 
+}
+
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 6vh;
+}
+    
+
+}
+
+@media screen and (max-width:375px){
+     footer{
+   margin-top: 12%;
+}  
+    
+.footer-box > .ft-logo-box > .ft-logo-img{
+    width:32vw;
+    height: 7vw;
+}    
+    .footer-box > .site-info{
+ 
+    width:80.65vw;
+   
+    margin-top: 12%;
+    padding-bottom: 2.3vw;
+   
+}   
+    
+.footer-box > .site-info > ul > li > a{
+
+    font-size: 2.2vw;
+}
+    
+   
+    
+.footer-box > .copyright > p{
+   font-size: 0.94vw;
+}
+  
+}
+
+@media screen and (max-width:320px){
+     haader{
+        width:100%;
+    }
+     header > .header-wrap{
+        max-width:  78.1vw;
+    }
+    
+aside > .nav-box{
+    width:100%;
+    height: 35%;
+}  
+
+aside > .nav-box > .hotel-wrap{
+    width:100%;
+    height: 70%;
+   
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:22.5%;
+}   
+    
+aside > .nav-box > .hotel-wrap > .left-hotels{
+    width:40%;
+    height: 100%;
+    position: relative;
+   
+   
+}    
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img > .ho-logo-bg{
+        width:26vw;
+    height: 13vw;
+    }    
+aside > .nav-box > .hotel-wrap > .left-hotels > .ho-img{
+    width:37.5vw;
+    height: 45.3vw;
+    background-image: url(../img/seoul-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    z-index: 4;
+    left:14%;
+    
+}  
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box{
+    position: absolute;
+    top:-2%;
+    left:20%;
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-name-box > ul > li > a{
+    font-size: 2.2vw;
+   
+}
+    
+aside > .nav-box > .hotel-wrap > .right-hotel-name{
+    width:60%;
+    height: 100%;
+  
+    position: relative;
+}
+   
+aside > .nav-box > .hotel-wrap > .right-hotel-name > .hotel-logo-img{
+    position: absolute;
+    top:50%;
+    left:20%;
+    width:24vw;
+    height:10vw;
+}
+    
+
+
+    aside > .nav-box > .close-box{
+        width:30px;
+        height: 30px;
+    }    
+    
+    aside > .nav-box > .close-box > p{
+        width:20px;
+        height: 2.5px;
+        
+    }  
+    
+    aside > .nav-box > .close-box > p:first-child{
+        transform: translateX(5px) translateY(17px) rotate(45deg);
+    }    
+  
+    
+    aside > .nav-box > .close-box > p:last-child{
+        transform: translateX(5px) translateY(14px) rotate(-45deg);
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger{
+        width:20px;
+        height: 20px;
+        
+    } 
+    
+    header > .header-wrap > .right-menu > .hamburger > p{
+        width:100%;
+        height: 3px;
+        margin-bottom: 4px;
+    }    
+    
+    header > .header-wrap > .wal-logo-wrap > .left-logo{
+    position: absolute;
+    display: block;
+    width:27vw;
+    height: 6.1vw;
+    background-image: url(../img/hotel-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+}
+
+@media screen and (max-width:320px){
+
+    
+section > #brand_2 > .brand-2-main-2{
+    visibility: visible;
+    text-align: center;
+    margin-top: -14.5vw;
+    margin-bottom: 5vw;
+    width:90vw;
+    margin-left: -5vw;
+}    
+    
+  
+ section > #brand_2 > .brand-2-main-2 > p{
+     font-size: 2.4vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    line-height: 3.2vw;
+      
+}    
+    
+
+section > #brand_2 > .main-line > p{
+        width:100%;
+        height: 1px;
+        background-color: #333;
+}   
+    
+section > #brand_2 > .main2-contact{
+        text-align: center;
+     margin-top: 3.6vw;
+    margin-bottom: 8.5vw;
+    }    
+    
+section > #brand_2 > .main2-contact > .main2-top-con > p{
+      font-size: 3.2vw;
+}     
+    
+
+section > #brand_2 > .main2-contact > .main2-btm-con > p{
+        font-size: 3.2vw;
+}  
+    
+section > #brand_2 > .more-view-two{
+        width:37vw;
+    line-height: 11vw;
+    margin-top: 5vw;
+    
+}   
+    
+section > #brand_2 > .more-view-two > a{
+    font-size: 3.2vw;
+  
+    }   
+}    
+
+@media screen and (max-width:320px){
+    
+
+section > #stay > .stay-slide .stay-box .stay-ex-box{
+   
+    top:22.5vh;
+
+}
+    
+
+    
+section > #stay > .stay-slide .stay-box  .stay-ex-box  .stay-ex-bg{
+    width:100vw;
+    height: 45.44vw;
+}
+    
+.stay-box .stay-ex-box .stay-ex-bg .stay-text{
+   position: absolute;
+    top:15%;
+    left:30%;
+    width:50vw;
+    height: 29vw;
+    border-left:0px solid #333;
+    padding-left: 5%;
+   
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-top-box h1{
+   font-size: 3.4vw;
+    text-align: left;
+}
+
+
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title{
+    margin-bottom: 1.7vw;
+    text-align: left;
+}
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-sub-title > h2{
+  
+    font-size: 2.6vw;
+    line-height: 3.7vw;
+}
+    
+    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main{
+       width:70vw; 
+    }    
+.stay-ex-box .stay-ex-bg .stay-text > .stay-main > p{
+     text-align: left;
+    font-size: 2.1vw;
+    line-height: 3.5vw;
+}  
+    
+.stay-slide .slick-prev{
+    top:19%;
+}
+
+.stay-slide  .slick-next{
+     position: absolute;
+    left:10%;
+   top:19%;
+    z-index: 2;
+}
+
+.stay-slide  .slick-next img{
+   width:8vw;
+}
+
+.stay-slide  .slick-prev img{
+   width:8vw;
+} 
+}
+
+@media screen and (max-width:320px){
+    section > #food_2{
+   display: block;
+    margin-top: -45vh;
+   
+}
+    
+.parallax-window3{
+    min-height: 188vw;
+    background: transparent;
+}    
+    
+    
+
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title{
+        width:20vw;
+    }    
+
+
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title > .top-wh > p{
+     font-size: 4.6vw;
+    font-weight: 400;
+}
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat{
+        padding-left: 2vw;
+    }
+    
+
+section > #food_2 > .food-bg-box > .fd-ex-wrap > .left-title > .eat-top-title  > .btm-eat > p{
+      font-size: 5.7vw;
+     font-weight: 700;
+}    
+    
+    section > #food_2 > .food-bg-box > .fd-ex-wrap > .right-img-box-2 > .more-res{
+        margin-top: 3.5vh;
+    }    
+    
+}
+
+
+@media screen and (max-width:320px){
+     #wine{
+     margin-top: 6vh;
+    position: relative;
+  
+}
+    
+#wine > .wine-title > h1{
+    font-size: 5vw;
+}    
+  
+ #wine > .wine-slider{
+    width:100%;
+        max-width: 100vw; 
+}
+
+#wine > .wine-title{
+text-align: center;
+     margin-bottom: 6vh;
+}
+    
+    .wine-store > a{
+        width:45vw;
+        line-height: 15vw;
+    }   
+    
+    .wine-store > a > span > b{
+        width:5vw;
+        height: 5vw;
+    }    
+    
+}
+
+@media screen and (max-width:320px){
+    #news_2{
+     display: block;
+    margin-top: 20vh;
+}
+    
+.parallax-window4{
+    position: relative;
+	min-height: 254.05vw;
+	background: transparent;
+}  
+    
+.news-letter-box{
+    max-width: 82.1vw;
+   position: absolute;
+    top:14vw;
+    
+}
+    
+ .news-letter-box > .news-le-text > h1{
+      font-size: 4vw;  
+ } 
+    
+
+.news-letter-select > #sel-box > .table-info{
+    width:  82.1vw;
+   
+    margin: 0 auto;
+    height: 100px;
+}
+  
+    
+
+#sel-box > .table-info .global{
+    display: block;
+    width:22vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+
+    /*font*/
+    font-size: 1.8vw;
+}
+
+#sel-box > .table-info .em-info{
+    display: block;
+    width:39.7vw;
+    line-height: 11vw;
+    
+     /*font*/
+
+    font-size: 2.35vw;
+}
+   
+#sel-box > .table-info .btn{
+    width:16.6vw;
+     line-height: 11vw;
+}
+ 
+#sel-box > .table-info .btn span{
+   
+    font-size: 2.35vw;
+}    
+
+.news-letter-box > .agree{
+        margin-top: -18vw;
+    width:90vw;
+    }    
+    
+.news-letter-box > .agree > label{
+     font-size: 1vw;
+}
+  
+.news-room-box-2{
+    position: absolute;
+    top:53vw;
+    left:50%;
+    transform: translateX(-50%);
+    max-width: 82.1vw;
+}
+    
+.news-room-box-2 > .news-title{
+     text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2.81vw;
+}
+  
+
+.news-room-box-2 > .news-title > h1{
+    color:#333;
+     font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+   font-size: 4vw; 
+}    
+    
+
+.news-room-box-2 > .news-img-box{
+ width:100%;
+  margin-top: 5vw;
+}    
+    
+
+
+.news-room-box-2 > .news-img-box > .news-box > .hidden-wrap > .news-img{
+  width:60vw;
+   height:40vw;
+    background-image: url(../img/news1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}  
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(2) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news2.jpg);
+  
+   
+}    
+    
+.news-room-box-2 > .news-img-box > .news-box:nth-child(3) > .hidden-wrap > .news-img{
+ 
+    background-image: url(../img/news3.jpg);
+  
+   
+}  
+    
+    
+.news-room-box-2 > .news-img-box > .news-box{
+margin-bottom: 7vw;
+  
+}   
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline{
+        margin-top: 1.5vw;
+}  
+    
+    .news-room-box-2 > .news-img-box > .news-box > .news-headline > a{
+       
+    }    
+    
+.news-room-box-2 > .news-img-box > .news-box > .news-headline > a > span{
+        font-size: 2.8vw;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    color: #333;
+     width:67vw;
+    display: block;
+    
+    }
+}
+
+@media screen and (max-width:320px){
+      footer{
+   margin-top: 11%;
+} 
+    
+    
+.footer-box > .ft-logo-box > .ft-logo-img{
+    width:32vw;
+    height: 7vw;
+}    
+    .footer-box > .site-info{
+ 
+    width:95.65vw;
+   
+    margin-top: 12%;
+    padding-bottom: 2.3vw;
+   
+}   
+    
+.footer-box > .site-info > ul > li > a{
+
+    font-size: 2.2vw;
+}
+    
+   
+    
+.footer-box > .copyright > p{
+   font-size: 0.94vw;
+}    
+    
+}
