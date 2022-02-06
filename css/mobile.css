@@ -1,0 +1,827 @@
+@media screen and (min-width:320px) and (max-width:767px) {
+  html {
+    font-size: 10px;
+  }
+
+  .con {
+    width: 27rem;
+    margin: 0 auto;
+  }
+
+  .headWrap {
+    width: 83vw;
+    position: absolute;
+    top: 2rem;
+    left: 50%;
+    z-index: 3;
+    transform: translateX(-50%);
+   
+  }
+
+  .headWrap>.logo {
+    background-image: url(../img/hotel-logo.png);
+    width: 9.2rem;
+    height: 2.2rem;
+    cursor: pointer;
+   
+  }
+
+  .headWrap>.hamburgerWrap {
+    width: 2rem;
+  
+  }
+
+  .headWrap>.hamburgerWrap>button>span {
+    display: block;
+    width: 2rem;
+    height: 0.25rem;
+    background-color: white;
+    margin-bottom: 5px;
+  }
+
+  /*Slide start*/
+  .mainSlide {
+    width: 100%;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+
+  .mainSlide div {
+    width: 100%;
+    height: 51rem;
+    position: relative;
+
+  }
+
+  .mainSlide .mainOne {
+
+    background-image: url(../img/main1.jpg);
+  }
+
+  .mainSlide .mainTwo {
+    background-image: url(../img/main2.jpg);
+  }
+
+  .mainSlide .mainThree {
+    background-image: url(../img/main3.jpg);
+  }
+
+  .mainSlide div .textBox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: max-content;
+    height: max-content;
+    text-align: center;
+    color: white;
+  }
+
+  .mainSlide div .textBox>h3 {
+    font-size: 1.84rem;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .mainSlide div .textBox>p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 2rem;
+
+  }
+
+  .mainSlide .mainTwo .textBox>p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
+
+  .mainSlide .slick-dots {
+    position: absolute;
+    bottom: 2rem;
+  }
+
+  .mainSlide .slick-dots li {
+    margin-right: 1rem;
+    width: 4rem;
+    height: 0.5rem;
+  }
+
+  .mainSlide .slick-dots li button:before {
+    display: block;
+    width: 4rem;
+    height: 0.5rem;
+    background-color: white;
+    font-size: 0rem;
+  }
+
+  .mainSlide li.slick-active button:before {
+    opacity: 1;
+  }
+
+  main {
+    position: relative;
+    top: 55.5rem;
+  }
+
+  /*section1 guide*/
+  .guideText {
+    margin-bottom: 1.6rem;
+  }
+
+  .guideText>h4 {
+    font-size: 1.7rem;
+    font-weight: 800;
+  }
+
+  .guideText>p {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 0.2rem;
+  }
+
+  .guideImg {
+    background-image: url(../img/section1_1024.jpg);
+    height: 17.5rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .detailText {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    margin-bottom: 1.6rem;
+    font-weight: 500;
+  }
+
+  .divideLine {
+    display: block;
+    width: 18rem;
+    height: 0.5px;
+    background-color: #333;
+    margin: 0 auto;
+  }
+
+  .guideInfo {
+    margin-top: 1.6rem;
+    text-align: center;
+  }
+
+  .guideInfo>.topInfo {
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    font-size: 1.16rem;
+    width: 22rem;
+
+  }
+
+  .guideInfo>.btnSize {
+    display: block;
+    width: 12rem;
+    line-height: 3.6rem;
+    margin: 0 auto;
+  }
+
+
+
+  /*section2 offer*/
+  .offer {
+    margin-top: 4.5rem;
+  }
+
+  .offer>h3 {
+    text-align: center;
+    font-size: 1.7rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
+
+  .offer>.moreOffer {
+    padding: 4rem 0;
+    background-color: #f4f4f4;
+    margin-top: 2.5rem;
+  }
+
+  .offer>.moreOffer>.OfferImgBox {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 10.6rem;
+    margin-bottom: 2rem;
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.OfferImg {
+
+    background-image: url(../img/rest_mobile.jpg);
+    height: 100%;
+  }
+
+  .offer>.moreOffer>.OfferImgBox:nth-child(2)>.OfferImg {
+    background-image: url(../img/wedding_mobile.jpg);
+  }
+
+  .offer>.moreOffer>.OfferImgBox:nth-child(3)>.OfferImg {
+    background-image: url(../img/gourmet_mobile.jpg);
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.hoverBg {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.hoverBorder {
+    width: 94%;
+    height: 9rem;
+    border: 1px solid white;
+
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.OfferText {
+    color: white;
+    text-align: center;
+    font-size: 1.3rem;
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.OfferText>p {
+    margin-bottom: 1rem;
+  }
+
+  .offer>.moreOffer>.OfferImgBox>.OfferText>button {
+    width: 9.5rem;
+    line-height: 3rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .offer>.moreOffer>.moreView {
+    margin: 0 auto;
+    margin-top: 4rem;
+    width: 10.5rem;
+  }
+
+  .offer>.moreOffer>.moreView>button {
+    width: 100%;
+    line-height: 3.2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: white;
+  }
+
+  /*section3 stay*/
+  .stay {
+    margin-top: 4.5rem;
+  }
+
+  .stay>.stayText {
+    width: max-content;
+    margin: 0 auto;
+    font-size: 1.7rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+  }
+
+  .stay>.stayText>h3>span {
+    display: block;
+    text-align: right;
+    padding-left: 3rem;
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
+  .stay>.staySlide {
+    margin-top: 2.5rem;
+    position: relative;
+  }
+
+  .stay>.staySlide .stayImgBox {
+    width: 100%;
+    height: max-content;
+
+
+  }
+
+  .stay>.staySlide .stayImgBox>.stayImg {
+    width: 100%;
+    height: 15.6rem;
+
+  }
+
+  .stay>.staySlide .stayImgBox>.stayOne {
+    background-image: url(../img/seoul_1024.jpg);
+  }
+
+  .stay>.staySlide .stayImgBox>.stayTwo {
+    background-image: url(../img/1024_grand.jpg);
+  }
+
+  .stay>.staySlide .stayImgBox>.stayThree {
+
+    background-image: url(../img/1024_douglas.jpg);
+  }
+
+  .stay>.staySlide .stayImgBox>.stayExBox {
+    width: 100%;
+    padding: 1.2rem;
+    height: 14.5rem;
+    background-color: #f4f4f4;
+    margin-top: 1.5rem;
+    position: relative;
+  }
+
+  .stay>.staySlide .stayImgBox>.stayExBox>.stayExText {
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 7%;
+  }
+
+  .stay>.staySlide .stayImgBox>.stayExBox>.stayExText>h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .stay>.staySlide .stayImgBox>.stayExBox>.stayExText>h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #6a6a6a;
+    margin-bottom: 0.6rem;
+  }
+
+  .stay>.staySlide .stayImgBox>.stayExBox>.stayExText>p {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+  }
+
+  /*slide btn*/
+
+  .stay .slick-prev {
+    position: absolute;
+    left: 1rem;
+    top: 14rem;
+    z-index: 3;
+  }
+
+  .stay .slick-prev::before {
+
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    content: "";
+    background-image: url(../img/l_btn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .stay .slick-next {
+    position: absolute;
+    left: 4.5rem;
+    top: 14rem;
+  }
+
+
+  .stay .slick-next:before {
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    content: "";
+    background-image: url(../img/r_btn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .stay .slick-prev:before,
+  .slick-next:before {
+    opacity: 1;
+  }
+
+  /*section4 start*/
+  .eatCategory {
+    margin-top: 4.8rem;
+    background-image: url(../img/restaurant_bg_mobile.jpg);
+    padding: 3rem 0;
+    height: max-content;
+    background-attachment: fixed;
+  }
+
+  .eatCategory>.eatText {
+    width: max-content;
+    margin: 0 auto;
+  }
+
+  .eatCategory>.eatText>h3 {
+    text-align: left;
+    font-size: 1.7rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+  }
+
+  .eatCategory>.eatText>h3>span {
+    display: block;
+    text-align: right;
+    padding-left: 3.7rem;
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
+  .eatCategory>.eatImgWrap {
+    margin-top: 2.5rem;
+  }
+
+  .eatImgBox {
+    position: relative;
+    margin-bottom: 1.8rem;
+  }
+
+  .eatImgBox:last-child {
+    margin-bottom: 0;
+  }
+
+  .eatImg {
+    width: 100%;
+    height: 12.3rem;
+
+  }
+
+  .eatOne {
+    background-image: url(../img/pizza_mobile.jpg);
+  }
+
+  .eatTwo {
+    background-image: url(../img/camping_mobile.jpg);
+  }
+
+  .eatThree {
+    background-image: url(../img/buffet_mobile.jpg);
+  }
+
+  .LogoOne {
+    background-image: url(../img/pizza-logo.png);
+    width: 10rem;
+    height: 4.2rem;
+  }
+
+  .LogoTwo {
+    background-image: url(../img/camp_logo.png);
+    width: 14rem;
+    height: 3rem;
+  }
+
+  .LogoThree {
+    width: 13.4rem;
+    height: 3.5rem;
+    background-image: url(../img/buffet_logo.png);
+  }
+
+  .eatCategory>.eatMoreView {
+    margin-top: 3rem;
+  }
+
+  .eatCategory>.eatMoreView>button {
+    width: 10rem;
+    line-height: 3.6rem;
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 0 auto;
+  }
+
+  .wineAllwrap {
+    margin-top: 4.5rem;
+
+  }
+
+  .wineAllwrap>h3 {
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+
+  .wineSlide {
+    margin-top: 3rem;
+  }
+
+  .wineSlide .wineBox {
+    width: 17.6rem;
+    height: 23.7rem;
+    background-color: #fafafa;
+    margin-right: 3rem;
+    position: relative;
+  }
+
+  .wineSlide .wineBox>.wineImg {
+    width: 3.3rem;
+    height: 12.1rem;
+    top: 40%;
+  }
+
+  .wineSlide .wineBox>.wineExTxt {
+    width: max-content;
+    text-align: center;
+    top: 80%;
+  }
+
+  .wineSlide .wineBox>.wineExTxt>.topWineTxt {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    font-weight: 600;
+    font-size: 1.17rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .wineSlide .wineBox>.wineExTxt>.btmWineTxt {
+    font-size: 1.13rem;
+    font-weight: 400;
+    color: #808080;
+  }
+
+  .wineSlide .wineBox>.wineImgOne {
+    background-image: url(../img/wine1.png);
+  }
+
+  .wineSlide .wineBox>.wineImgTwo {
+    background-image: url(../img/wine2.png);
+  }
+
+  .wineSlide .wineBox>.wineImgThree {
+    background-image: url(../img/wine3.png);
+  }
+
+  .wineSlide .wineBox>.wineImgFour {
+    background-image: url(../img/wine4.png);
+  }
+
+  .wineSlide .wineBox>.wineImgFive {
+    background-image: url(../img/wine5.png);
+  }
+
+  .wineSlide .wineBox>.wineImgSix {
+    background-image: url(../img/wine6.png);
+  }
+
+  .wineSlide .slick-dots {
+    bottom: -50px;
+  }
+
+  .wineSlide .slick-dots li {
+    margin: 0 8px;
+  }
+
+  .wineSlide .slick-dots li button:before {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #333;
+  }
+
+  .goWineShop {
+    margin-top: 8rem;
+
+  }
+
+  .goWineShop>button {
+    width: 14rem;
+    height: 4rem;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+  }
+
+  .newsAll {
+    margin-top: 4.5rem;
+    width: 100%;
+    background-image: url(../img/section6_bg_mobile.jpg);
+    padding: 4.5rem 0;
+    height: 72.3rem;
+    background-attachment: fixed;
+  }
+
+  .newsLetter>h3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+
+
+  .newsLetter>#newsForm .globalSize {
+
+    width: 7rem;
+    height: 3.4rem;
+    padding-left: 0.2rem;
+    line-height: 3.4rem;
+    box-sizing: border-box;
+
+  }
+
+  .newsLetter>#newsForm>.emailTable {
+    margin-bottom: 1rem;
+  }
+
+  .newsLetter>#newsForm .emailBox>.emailSize {
+    width: 12.7rem;
+    height: 3.4rem;
+    padding-left: 0.7rem;
+    border: none;
+    display: block;
+    box-sizing: border-box;
+
+  }
+
+  .commonDe {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #57534f;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.6);
+  }
+
+  .newsBtn {
+    width: 5.3rem;
+    height: 3.4rem;
+
+  }
+
+  .newsBtn>span {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  article {
+    margin-top: 3.5rem;
+  }
+
+  article>h3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+  }
+
+
+  .newsImgBox {
+    width: max-content;
+    height: max-content;
+    margin: 3rem auto;
+  }
+
+  .newsImgBox>.newsImg {
+    width: 20rem;
+    height: 13rem;
+  }
+
+  .newsImgBox>.newsOne {
+    background-image: url(../img/news1.jpg);
+  }
+
+  .newsImgBox>.newsTwo {
+    background-image: url(../img/news2.jpg);
+  }
+
+  .newsImgBox>.newsThree {
+    background-image: url(../img/news3.jpg);
+  }
+
+  .newsImgBox>.newsTxt {
+    margin-top: 0.7rem;
+
+  }
+
+  .newsTxt>p {
+    font-weight: 500;
+    font-size: 1.1rem;
+  }
+
+  footer{
+    position: relative;
+    top:55rem;
+  }
+
+  footer > .ftWrap{
+    padding: 2.5rem 0;
+    background-color: #333;
+    color:white;
+  }
+
+  .ftWrap > .ft_Logo{
+    width:max-content;
+    margin: 0 auto;
+  }
+
+  .ftWrap > .ft_Logo > .ftLogoImg{
+    width:10.2rem;
+    height:2.2rem;
+    background-image: url(../img/footer_logo.png);
+  }
+
+  .ftWrap > .ftNav{
+    margin-top: 1.5rem;
+  }
+
+  .ftWrap > .ftNav > ul{
+    width:30rem;
+    margin: 0 auto;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid white;
+  }
+
+  .ftWrap > .ftNav > ul > li > a{
+    font-weight: 300;
+  }
+
+  .ftContact{
+    margin-top: 1.5rem;
+  }
+
+  .contNav{
+    width:28rem;
+    margin: 0 auto;
+  }
+
+  .contNav > li{
+    text-align: center;
+    margin-bottom: 0.5rem;
+    font-weight: 300;
+  }
+
+  .contNav > li > span{
+    font-weight: 500;
+    padding-left: 0.7rem;
+  }
+
+  .copyRight{
+    margin-top: 1.5rem;
+  }
+
+  .copyRight > p{
+    text-align: center;
+    font-weight: 300;
+  }
+
+  .tabletTxt{
+    display: none;
+  }
+
+ /* .tabletOffer{
+    display: none;
+  }
+*/
+
+.eatCategory>.eatText > p{
+  display: none;
+}
+
+.company-info{
+  display: none;
+}
+
+.company-info-2{
+  display: none;
+}
+
+.menu{
+  display: none;
+}
+
+.pcGuide{
+  display: none;
+}
+
+.pcOfferWrap{
+  display: none;
+}
+
+.fixedMenu{
+  position: fixed;
+  bottom: 5%;
+  right:5%; 
+
+}
+
+.fixedMenu > .upBtn{
+  transition: 0.3s;
+  width:4.2rem;
+  height:4.2rem;
+  background-image: url(../img/top-btn.png);
+  margin-top: 1.3rem;
+}
+
+}
